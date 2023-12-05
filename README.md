@@ -1,2 +1,2 @@
 # mathjs
-Javascript Math tools
+Javascript Math tools with functions
