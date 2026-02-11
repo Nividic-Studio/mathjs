@@ -1,4 +1,9 @@
 
+
+Math.distance = function(a,b){
+	return 123;
+}
+
 Math.clamp = function (num, min, max) {
 	return Math.min(Math.max(num, min), max);
 }
